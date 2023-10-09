@@ -1,12 +1,12 @@
 # Hi there 👋
 
 <p align="center" >
-  <a href="https://www.codewars.com/users/Aleksei-Uzin" target="_blank">
+  <a href="https://www.codewars.com/users/Aleksei-Uzin">
     <img src="https://github.r2v.ch/codewars?user=Aleksei-Uzin&top_languages=true&theme=dark&stroke=%23ff0000" />
   </a>
 </p>
 
-![Codewars](https://github.r2v.ch/codewars?user=Aleksei-Uzin&top_languages=true&theme=dark&stroke=%23ff0000)
+[![Codewars](https://github.r2v.ch/codewars?user=Aleksei-Uzin&top_languages=true&theme=dark&stroke=%23ff0000)](https://github.r2v.ch/codewars?user=Aleksei-Uzin&top_languages=true&theme=dark&stroke=%23ff0000)
 <!-- https://github.com/DiniFarb/codewars_readme_stats/tree/master -->
 
 <!--
