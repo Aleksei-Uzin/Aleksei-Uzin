@@ -2,7 +2,7 @@
 
 <p align="center" >
   <a href="https://www.codewars.com/users/Aleksei-Uzin">
-    <img src="https://github.r2v.ch/codewars?user=Aleksei-Uzin&top_languages=true&theme=gradient_midnight_puple_by_level&stroke=%23866cc7" />
+    <img src="https://github.r2v.ch/codewars?user=Aleksei-Uzin&top_languages=true&theme=dark&stroke=%23866cc7" />
   </a>
 </p>
 <!-- https://github.com/DiniFarb/codewars_readme_stats/tree/master -->
